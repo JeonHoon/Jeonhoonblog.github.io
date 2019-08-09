@@ -1,10 +1,10 @@
 # Site wide configuration
 
-title: "My Site"
-description: "This is a description of my awesome site."
+title: "훈이네 홈페이지"
+description: "내가 만들어 쓰는 블로그입니다."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
-locale: en
+locale: kr
 url:
 feed:
   path: atom.xml
