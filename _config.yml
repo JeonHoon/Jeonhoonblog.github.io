@@ -5,7 +5,7 @@ description: "내가 만들어 쓰는 블로그입니다."
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: kr
-url:
+url: "https://jeonhoonblog.github.io" # 블로그 주소
 feed:
   path: atom.xml
 
